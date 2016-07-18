@@ -25,6 +25,6 @@ build:
 
 integrations:
   hub:
-    - integrationName: quay-intgratn12
+    - integrationName: test_pdr
       type: private docker registry
     
