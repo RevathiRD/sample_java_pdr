@@ -27,8 +27,4 @@ integrations:
   hub:
     - integrationName: quay-intgratn
       type: private docker registry
-    #  branches:
-     #   only:
-      #    - master
-      
-      
+    
