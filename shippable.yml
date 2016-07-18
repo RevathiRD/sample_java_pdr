@@ -25,6 +25,6 @@ build:
 
 integrations:
   hub:
-    - integrationName: quay-intgratn
+    - integrationName: quay-intgratn12
       type: private docker registry
     
